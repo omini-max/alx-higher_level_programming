@@ -1,5 +1,5 @@
 # Higher Level Programming Projects
-This repo contains all the projects that I have done in the alx-Holberton curriculum on Higher level programming.
+This repo contains all the projects that I have done in the alx curriculum on Higher level programming.
 
 
 ## What Does High-Level Language (HLL) Mean?
